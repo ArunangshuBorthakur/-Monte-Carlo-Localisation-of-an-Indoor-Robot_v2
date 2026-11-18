@@ -1,0 +1,2 @@
+seed,sensor_model,resampling,n_particles,position_rmse,heading_rmse,final_position_error,final_heading_error,convergence_time,success,runtime
+42,beam,systematic,500,0.1083,0.0154,0.0116,-0.0009,6,True,3.7472
